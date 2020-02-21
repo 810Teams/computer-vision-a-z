@@ -130,3 +130,6 @@ dmypy.json
 
 # MacOS
 .DS_Store
+
+# Custom
+Module 2 - Object Detection/Training_SSD/
