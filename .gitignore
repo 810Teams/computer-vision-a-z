@@ -133,3 +133,4 @@ dmypy.json
 
 # Custom
 Module 2 - Object Detection/Training_SSD/
+*.pth
